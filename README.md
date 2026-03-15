@@ -1,4 +1,4 @@
-# 🚀 GAIYA INTERNAL - GitHub Profile README
+# 🚀 GAIYA INTERNAL - GitHub Profile 
 
 ![GAIYA INTERNAL Banner](https://github.com/GaiyaInternal/GaiyaInternal/blob/main/gaiya_internal_banner_1773585771759.png?raw=true)
 
