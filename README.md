@@ -1,7 +1,7 @@
 # 🚀 GAIYA INTERNAL - GitHub Profile README
 
 <p align="center">
-  <img src="./gaiya_internal_banner_1773585771759.png" alt="GAIYA INTERNAL Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/GaiyaInternal/GaiyaInternal/main/gaiyainternal.png" alt="GAIYA INTERNAL Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ I am a passionate developer and the founder of **GAIYA INTERNAL**. My mission is
 
 <p align="center">
 <a href="https://gaiyainternal.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-00FFA2?style=for-the-badge&logo=google-chrome&logoColor=black" alt="gaiyainternal.com" /></a>
-<a href="https://discord.gg/FDDe9KScsn target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://discord.gg/FDDe9KScsn" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://wa.me/+94742922327" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
@@ -60,8 +60,4 @@ I am a passionate developer and the founder of **GAIYA INTERNAL**. My mission is
 
 <p align="center">
   <i>"Precision in every line of code. Performance in every internal tool."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GaiyaInternal&color=00FFA2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
