@@ -1,6 +1,6 @@
 # 🚀 GAIYA INTERNAL - GitHub Profile 
 
-![GAIYA INTERNAL Banner](https://github.com/GaiyaInternal/GaiyaInternal/blob/main/gaiya_internal_banner_1773585771759.png?raw=true)
+![GAIYA INTERNAL Banner](https://github.com/GaiyaInternal/GaiyaInternal/blob/main/gaiyainternal.png?raw=true)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFA2&center=true&vCenter=true&width=435&lines=Founder+of+GAIYA+INTERNAL;Professional+Software+Developer;Expert+in+Gaming+Tools;Enterprise+Solution+Architect" alt="Typing SVG" />
