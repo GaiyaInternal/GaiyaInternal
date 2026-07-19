@@ -15,9 +15,11 @@
 I am a passionate developer and the founder of **GAIYA INTERNAL**. My mission is to bridge the gap between high-performance gaming tools and enterprise-grade software security. I specialize in system-level programming and building scalable business solutions.
 
 - 🔭 **Working on**: Advanced Internal Panels & Enterprise Hubs.
-- 💻 **Core Tech**: C++, Python, C#, Reverse Engineering.
+- 💻 **Core Tech**: React , C++, Python, C#, java, Reverse Engineering.
 - 🎯 **Mission**: Delivering precision, performance, and security.
-- 🌐 **My Website**: [gaiyainternal.com](https://gaiyainternal.com/)
+- 🌐 **Website**: [gaiyainternal.com](https://gaiyainternal.com/)
+- 🌐 **Store Website**: [gaiyastore.shop](https://gaiyastore.shop/)
+
 
 ---
 
