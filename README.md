@@ -1,35 +1,51 @@
-# 🚀 GAIYA INTERNAL - GitHub Profile README
+# GAIYA INTERNAL
+Precision in every line of code. Performance in every internal tool.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GaiyaInternal/GaiyaInternal/main/gaiyainternal.png" alt="GAIYA INTERNAL Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFA2&center=true&vCenter=true&width=435&lines=Founder+of+GAIYA+INTERNAL;Professional+Software+Developer;Expert+in+Gaming+Tools;Advanced+System+Security" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Founder-GAIYA%20INTERNAL-00FFA2?style=for-the-badge&logo=github&logoColor=white" alt="Founder" />
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Security-0078D4?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Website-gaiyainternal.com-00FFA2?style=for-the-badge" alt="Website" />
 </p>
 
 ---
 
-### 🛡️ About Me
+## About
+GAIYA INTERNAL is a software-focused brand built around precision, performance, and security. The work centers on enterprise-grade tooling, internal systems, reverse engineering, and robust software solutions where reliability matters.
 
-I am a passionate developer and the founder of **GAIYA INTERNAL**. My mission is to bridge the gap between high-performance gaming tools and enterprise-grade software security. I specialize in system-level programming and building scalable business solutions.
+This profile reflects the founder's passion for high-performance engineering, systems work, and security-first development. The mission is simple: build tools that are efficient, resilient, and technically sound.
 
-- 🔭 **Working on**: Advanced Internal Panels & Enterprise Hubs.
-- 💻 **Core Tech**: React , C++, Python, C#, java, Reverse Engineering.
-- 🎯 **Mission**: Delivering precision, performance, and security.
-- 🌐 **Website**: [gaiyainternal.com](https://gaiyainternal.com/)
-- 🌐 **Store Website**: [gaiyastore.shop](https://gaiyastore.shop/)
-
+### Core focus areas
+- Internal tools and enterprise dashboards
+- System-level engineering and performance optimization
+- Reverse engineering and security analysis
+- Network protocol analysis and low-level troubleshooting
+- Reliable software solutions for real-world operational needs
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## Quick links
+- Website: https://gaiyainternal.com/
+- Store: https://gaiyastore.shop/
+- Discord: https://discord.gg/FDDe9KScsn
+- WhatsApp: +94 742 922 327
+
+---
+
+## Tech stack & expertise
+- Languages: C++, Python, C#, Java, Assembly
+- Areas: Reverse engineering, kernel development, security auditing, network protocols
+- Specialization: high-performance systems, internal tooling, and secure engineering workflows
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=webassembly&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=webassembly&logoColor=white" />
 </p>
 
 <p align="center">
@@ -41,25 +57,36 @@ I am a passionate developer and the founder of **GAIYA INTERNAL**. My mission is
 
 ---
 
-### 📊 GitHub Activity
+## What I build
+- Internal management systems and enterprise hubs
+- Secure and efficient software tooling for real-world operational requirements
+- Reverse-engineering utilities and technical analysis tools
+- Performance-focused engineering solutions for complex systems and workflows
 
+---
+
+## GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaiyaInternal&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00FFA2&text_color=ffffff&icon_color=00FFA2&border_color=00FFA2" alt="GaiyaInternal Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GaiyaInternal&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00FFA2&text_color=ffffff&icon_color=00FFA2&border_color=00FFA2" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaiyaInternal&theme=tokyonight&background=0d1117&ring=00FFA2&fire=00FFA2&currStreakLabel=00FFA2" alt="GitHub Streak" height="180" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
-
+## Connect
 <p align="center">
-<a href="https://gaiyainternal.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-00FFA2?style=for-the-badge&logo=google-chrome&logoColor=black" alt="gaiyainternal.com" /></a>
-<a href="https://discord.gg/FDDe9KScsn" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://wa.me/+94742922327" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://gaiyainternal.com/" target="_blank"><img src="https://img.shields.io/badge/Website-00FFA2?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" /></a>
+  <a href="https://discord.gg/FDDe9KScsn" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://wa.me/+94742922327" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
 
+## Profile note
+This repository serves as the public profile and brand identity for GAIYA INTERNAL. It is designed to present the founder's technical direction, focus areas, and contact channels in a clean and professional way.
+
+---
+
 <p align="center">
-  <i>"Precision in every line of code. Performance in every internal tool."</i>
+  <i>“Precision in every line of code. Performance in every internal tool.”</i>
 </p>
