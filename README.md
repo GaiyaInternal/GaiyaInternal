@@ -66,6 +66,41 @@ This profile reflects the founder's passion for high-performance engineering, sy
 ---
 
 ## GitHub stats
+The README includes dynamic GitHub stats cards powered by third-party renderers. To avoid rate limiting and (optionally) show private contribution counts, add a GitHub Personal Access Token to your repository secrets and enable private counting.
+
+- Public stats (no token required): images render anonymously but may be rate-limited.
+- Private stats (requires token): a token with the appropriate scopes lets the card include private contributions and increases rate limits.
+
+Examples (these are already included below):
+
+- GitHub readme stats (summary):
+
+```html
+<img src="https://github-readme-stats.vercel.app/api?username=GaiyaInternal&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00FFA2&text_color=ffffff&icon_color=00FFA2&border_color=00FFA2" alt="GitHub Stats" height="180" />
+```
+
+- GitHub streak stats:
+
+```html
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaiyaInternal&theme=tokyonight&background=0d1117&ring=00FFA2&fire=00FFA2&currStreakLabel=00FFA2" alt="GitHub Streak" height="180" />
+```
+
+How to enable private contributions and increase rate limits
+1. Create a Personal Access Token (PAT):
+   - Go to https://github.com/settings/tokens and generate a token.
+   - If you only need public stats, `public_repo` is sufficient. To include private contributions, enable `repo` scope.
+   - Copy the generated token.
+
+2. Add the token as a repository secret:
+   - Go to your repository → Settings → Secrets and variables → Actions → New repository secret.
+   - Name the secret `GH_TOKEN` (this is what most stat services look for) and paste the token value.
+
+3. Use the stats cards as normal — the external service will pick up the token from your repo secrets when rendering in GitHub (some services automatically check repo secrets; if not, the token is used by GitHub Actions that call the API).
+
+Note: If the stats service you use requires a different secret name or additional configuration, consult that project's README (e.g., anuraghazra/github-readme-stats).
+
+Rendered cards (live):
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GaiyaInternal&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00FFA2&text_color=ffffff&icon_color=00FFA2&border_color=00FFA2" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaiyaInternal&theme=tokyonight&background=0d1117&ring=00FFA2&fire=00FFA2&currStreakLabel=00FFA2" alt="GitHub Streak" height="180" />
