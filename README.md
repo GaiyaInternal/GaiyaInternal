@@ -31,7 +31,6 @@ This profile reflects the founder's passion for high-performance engineering, sy
 - Website: https://gaiyainternal.com/
 - Store: https://gaiyastore.shop/
 - Discord: https://discord.gg/FDDe9KScsn
-- WhatsApp: +94 742 922 327
 
 ---
 
